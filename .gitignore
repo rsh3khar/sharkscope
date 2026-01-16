@@ -1,0 +1,33 @@
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.ruff_cache/
+
+# Built static files (generated from frontend)
+src/sharkscope/static/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Working docs (session logs)
+docs/
+
+# OS
+.DS_Store
