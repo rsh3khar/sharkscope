@@ -2,6 +2,8 @@
 
 Real-time network traffic visualization. See your connections flow across a 2D world map or 3D globe as they happen.
 
+![SharkScope Demo](sharkscope_demo.gif)
+
 ## Features
 
 - **Real-time visualization** - Watch network traffic flow on a 2D world map or 3D globe
